@@ -1,4 +1,4 @@
-import DataTable from '../components/DataTable'
+import DataTable from '@ognimelo/hrnet-datatable'
 import type { Employee } from '../App'
 
 type PropsType = {
